@@ -3,6 +3,7 @@
 <p align="center">
   <img src="Images/Dynamic/snake.svg" style="background:#161b22;">
 </p>
+<div style="border-bottom: 1px solid grey"></div>
 
 - ⭐ I have rich experience of Full Stack Development.
 
@@ -14,7 +15,7 @@
 
 - ⭐ I have excellent sense of Optimization that is not perfect but cannot be ignored.
 
-🏆🏆🏆 As it turns out, I'm an enthusiastic problem-solving Developer.🏆🏆🏆
+- 🏆 As it turns out, I'm an enthusiastic problem-solving Developer.
 
 <h2 align="center">Stats</h2>
 
