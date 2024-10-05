@@ -3,7 +3,11 @@
 <p align="center">
   <img src="Images/Dynamic/snake.svg" style="background:#161b22;">
 </p>
+
+<br>
 <div style="border-bottom: 1px solid grey; width: 100%;"></div>
+
+<br><br><br>
 
 - ⭐ I have rich experience of Full Stack Development.
 
