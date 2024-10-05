@@ -5,9 +5,7 @@
 </p>
 
 <br>
-<h2 align="center"></h2>
-
-<br>
+<h2 align="center">Summary</h2>
 
 - ⭐ I have rich experience of Full Stack Development.
 
