@@ -16,17 +16,8 @@
 
 🏆🏆🏆 As it turns out, I'm an enthusiastic problem-solving Developer.🏆🏆🏆
 
-<h2 align="center">⚡ Stats</h2>
+<h2 align="center">Stats</h2>
 
-<div class="d-block", align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark&style=center&column=10)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-</div>
-  
 ## About
 
 Thanks for taking out time to reach out.
