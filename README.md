@@ -19,8 +19,6 @@
 
 - 🏆 As it turns out, I'm an enthusiastic problem-solving Developer.
 
-<h2 align="center"></h2>
-
 ## About
 
 Thanks for taking out time to reach out.
