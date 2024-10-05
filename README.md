@@ -5,7 +5,7 @@
 </p>
 
 <br>
-<div style="border-bottom: 1px solid grey; width: 100%;"></div>
+<h2 align="center">Stats</h2>
 
 <br><br><br>
 
@@ -21,7 +21,7 @@
 
 - 🏆 As it turns out, I'm an enthusiastic problem-solving Developer.
 
-<h2 align="center">Stats</h2>
+<h2 align="center"></h2>
 
 ## About
 
