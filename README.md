@@ -9,8 +9,6 @@
 
 - ⭐ I have rich experience of Full Stack Development.
 
-- ⭐ I have deep understanding about Smart Contract.
-
 - ⭐ I have extensive experience of Web3 & Smart Contract Development.
 
 - ⭐ I have deep understanding about Blockchain | AI.
