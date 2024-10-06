@@ -6,6 +6,7 @@
 
 <br>
 <h2>Summary</h2>
+
 - ⭐ I have good logical and algorithmic thinking
 
 - ⭐ I have rich experience of Full Stack Development.
