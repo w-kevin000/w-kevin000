@@ -23,7 +23,7 @@
 
 Thanks for taking out time to reach out.
 I'm not a star or ninja developer but just enthusiastic and result-oriented one who think of client's satisfaction as my pleasure.
-I has been friendly with Full Stack over 6+ years.
+I has been friendly with Full Stack over 6+ years(Especially PHP & Laravel & MERN Stack).
 As the result of study on DataStructure && Algorithm, I have good logical and algorithmic thinking.
 I am good at debugging || fixing-error.
 I don't mind fixing errors or bugs even I enjoy it.
